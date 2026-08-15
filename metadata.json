@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS",
+  "description": "AI个人生活操作系统 - 碎碎念静默提取生活事实与身心状态、六大人生领域长期轨迹扇形图与多粒度热力图、目标与显化奖章档案、AI成长导师与人生原则共创",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
